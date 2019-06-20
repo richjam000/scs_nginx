@@ -1,5 +1,5 @@
 docker volume create scs_nginx_config
-docker volume create scs_nginx_log
+docker volume create scs_nginx_logs
 docker volume create scs_nginx_certs
 
 # Need to update the certificates dir first !
