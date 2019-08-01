@@ -1,0 +1,24 @@
+[rhel-7-server-extras-rpms]
+baseurl = http://www.scs-iso-http.scsuk.net/repo/rhel-7-server-extras-rpms/
+enabled = 1
+gpgcheck = 0
+name = Red Hat Enterprise Linux 7 Server - Extras (RPMs)
+
+[rhel-7-server-ansible-2.8-rpms]
+baseurl = http://www.scs-iso-http.scsuk.net/repo/rhel-7-server-ansible-2.8-rpms/
+enabled = 1
+gpgcheck = 0
+name = Red Hat Ansible Engine 2.8 RPMs for Red Hat Enterprise Linux 7 Server
+
+[rhel-7-server-rpms]
+baseurl = http://www.scs-iso-http.scsuk.net/repo/rhel-7-server-rpms/
+enabled = 1
+gpgcheck = 0
+name = Red Hat Enterprise Linux for SAP (RHEL 7 Server) (RPMs)
+
+[rhel-server-rhscl-7-rpms]
+baseurl = http://www.scs-iso-http.scsuk.net/repo/rhel-server-rhscl-7-rpms/
+enabled = 1
+gpgcheck = 0
+name = Red Hat Software Collections RPMs for Red Hat Enterprise Linux 7 Server
+
